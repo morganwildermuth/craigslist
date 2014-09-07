@@ -1,4 +1,4 @@
-var skincareApp = angular.module("skincareApp", [
+var craigslistApp = angular.module("craigslistApp", [
   "templates",
   "ngRoute"
 ])

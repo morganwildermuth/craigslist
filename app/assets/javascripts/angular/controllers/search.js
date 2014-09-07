@@ -1,4 +1,4 @@
-skincareApp.controller("searchCtrl", ["$scope", function($scope) {
+craigslistApp.controller("searchCtrl", ["$scope", function($scope) {
 
   $scope.searchTerm = "";
 
